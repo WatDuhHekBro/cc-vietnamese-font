@@ -1,0 +1,9 @@
+{
+	"name": "vietnamese-font",
+	"version": "1.0.0",
+	"postload": "mod.js",
+	"plugin": "plugin.js",
+	"ccmodDependencies": {
+		"Localize Me": "^0.6.0"
+	}
+}
